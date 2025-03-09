@@ -1,0 +1,19 @@
+# Ignore environment files
+.env
+
+# Ignore Composer dependencies
+/vendor/
+composer.lock
+
+# Ignore IDE/editor files
+.vscode/
+*.swp
+*.swo
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled files and logs (if applicable)
+node_modules/
+*.log
